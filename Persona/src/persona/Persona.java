@@ -20,5 +20,6 @@ public class Persona {
         
         Nombre = "Jose";
         cedula = 14765432;
+        System.out.println(Nombre);
     }
 }
