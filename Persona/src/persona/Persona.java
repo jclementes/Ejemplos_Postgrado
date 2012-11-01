@@ -16,7 +16,7 @@ public class Persona {
     public static void main(String[] args) {
         // TODO code application logic here
         int cedula;
-        String Nombre;
+        String Nombre,apellido;
         
         Nombre = "Jose";
         cedula = 14765432;
